@@ -1,4 +1,4 @@
-# Project - Lond Housing Study Tier 3
+# Project - London Housing Study Tier 3
 ___
 
 Creator: Sergio Pablo Cartagena
